@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="18.23302">
+<testcase classname="input form demo automation" name="input form data automation" time="18.23302">
+<system-out><![CDATA[Given User is in selenium easy homepage.....................................passed
+When Title of the pageis selenium easy......................................passed
+Then click on demo website..................................................passed
+Then Title of the page is best demo website.................................passed
+Then click on input forms...................................................passed
+Then click on input form submit.............................................passed
+Then user enters "sujith" and "reddy" and "sujith.talamanchi@gmail.com" and "868624972" and "marathahalli" and "banglore" and "Georgia" and "500038" and "www.google.com" and "input form testing".passed
+Then close the browser......................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
